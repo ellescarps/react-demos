@@ -40,3 +40,48 @@
 .read-the-docs {
   color: #888;
 }
+
+
+body {
+  background-color: rgb(168, 111, 180);
+  border: 15px solid pink;
+}
+
+.title {
+  color: white;
+  font-family: 'Courier New', Courier, monospace
+}
+
+
+label {
+   background:#ECEFF1;
+   box-shadow: 10px 10px rgba(0,0,0,0.2);
+}
+
+button:hover {
+ color: rgb(194, 63, 137);
+}
+
+.t2 {
+  color: rgb(113, 20, 127);
+  background-color: rgb(221, 238, 228);
+  padding: 2px;
+  font-size: large;
+}
+
+button {
+  -webkit-text-stroke-width: 1px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: rgb(85, 209, 209);
+  color: rgb(223, 246, 135);
+}
+
+form {
+ background-color: rgb(49, 9, 118);
+ border-radius: 16%;
+ padding: 13px;
+}
+
+
+
+
